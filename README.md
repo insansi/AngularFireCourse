@@ -1,3 +1,3 @@
-## Building Apps With AngularFire2 Course
+## Building Apps With AngularFire Course
 
 This course is up to date
